@@ -1,0 +1,13 @@
+ {
+  "api_key_Open_AI": "",
+  "base_url_Open_AI": "https://openrouter.ai/api/v1",
+  "model_Open_AI": "deepseek/deepseek-chat:free",
+
+  "api_key_LANGCHAIN": "",
+  "model_LANGCHAIN": "llama3-8b-8192",
+
+  "api_key_LANGCHAIN_mistral": "",
+  "model_LANGCHAIN_mistral": "mistral-small-latest",
+
+  "llm_backend": 2
+}
