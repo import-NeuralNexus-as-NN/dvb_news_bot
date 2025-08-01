@@ -1,0 +1,25 @@
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS‑specific
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
